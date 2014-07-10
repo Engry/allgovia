@@ -1,0 +1,118 @@
+body {
+    width: 70%;
+    margin: auto;
+    background-color: #544A43;
+}
+
+/*----------------------------header---------------------------------------------------*/
+.header {
+    height: 180px;
+    position: relative;
+    top: 10px;
+    padding-top: 31px;
+}
+
+.header .container {
+    padding: 0px;   
+    margin-left: inherit;
+}
+
+/*----------------------------------------Navbar des HalfSliders----------------------------*/
+.navbar-wrapper .container {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: : 0px;
+    border: 0px;
+    margin-left: inherit;
+    width: 100%;
+    background-color: #635D53;
+    
+}
+
+.navbar-static-top {
+    margin-bottom: inherit;
+    border: 0px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #ffffff;
+  }
+.navbar-inverse .navbar-nav > li > a:hover {
+  opacity: 0.5;  
+}
+
+/*Alte NavBar vor Einbau des Sliders
+/*.navbar {
+    background-color: #635D53;
+    padding-top: 5px;
+}
+
+.navbar a {
+    color: #FFFFFF;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 14px 10px;
+    text-transform: uppercase;
+}
+
+.navbar li {
+    display: inline;
+    background: none;
+}*/
+
+/*------------------------------------jumbo-----------------------------------------------------
+.jumbotron {
+    background-image:url('http://goo.gl/04j7Nn');
+    height: 500px;
+   
+}
+
+.jumbotron .container .visible-xs-block{
+    position: relative;
+    top:100px;
+}
+
+.jumbotron h1 {
+    color: #FFFFFF;
+    font-size: 300%;  
+    font-family: 'Shift', sans-serif;
+    font-weight: bold;
+}
+
+.jumbotron p {
+    font-size: 150%;
+    color: #FFFFFF;
+}*/
+/*--------------------------------------neighborhoodguides------------------------------------------------*/
+.neighborhood-guides {
+    color: #FFFFFF;
+    background-color: #635D53;
+    border-bottom: 1px solid #dbdbdb;
+    margin-top: 10px;
+    
+}
+
+.neighborhood-guides h2 {
+    
+    font-size: 24px;
+}
+
+.neighborhood-guides p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+/*----------------------------------------------footer---------------------------------------------------------*/
+.learn-more {
+    background-color: #f7f7f7;
+    margin-top: 10px;
+}
+
+.learn-more h3 {
+    font-family: 'Shift', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.learn-more a {
+    color: #00b0ff;
+}
